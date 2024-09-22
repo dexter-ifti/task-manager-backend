@@ -19,7 +19,7 @@ const createTask = asyncHandler(async (req, res) => {
         user: req.user.id 
     });
 
-    const user = await Userser.findById(req.user._id);
+    const user = await User.findById(req.user._id);
     user.tasks.push(task._id);
     await user.save();
 
