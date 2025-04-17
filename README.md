@@ -163,5 +163,7 @@ DELETE /tasks/:id
 - `dueDate`: Date (required)
 - `user`: Reference to User (required)
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=dexter-ifti/task-manager-backend@github)](https://gitads.dev/v1/ad-track?source=dexter-ifti/task-manager-backend@github)
 
-<!-- GitAds-Verify: XLX8RVD8OLS6BOSQYN78ZD3MLYRU7TH5 -->
+
